@@ -1,0 +1,7 @@
+Assets/ filter=lfs diff=lfs merge=lfs -text
+Assets/PanoramaConverTo2D/ filter=lfs diff=lfs merge=lfs -text
+Assets/PanoramaConverTo2D/* filter=lfs diff=lfs merge=lfs -text
+
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
